@@ -28,7 +28,7 @@ export default function SearchResult() {
       <nav className="flex items-center justify-between px-8 py-4 bg-white shadow-sm text-sm font-medium">
         <div className="flex items-center space-x-2 text-2xl font-bold text-[#1a1a4b]">
           <span className="text-blue-400 text-2xl">•</span>
-          <a href="/index" className="font-extrabold">practo</a>
+          <a href="/" className="font-extrabold">practo</a>
           <span className="text-blue-400 text-2xl">•</span>
         </div>
 
@@ -160,3 +160,4 @@ export default function SearchResult() {
     </>
   );
 }
+
